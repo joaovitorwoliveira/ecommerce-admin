@@ -25,14 +25,6 @@ export default function RootLayout({
         <body className={inter.className}>
           <ToasterProvider />
           <ModalProvider />
-          <header>
-            <SignedOut>
-              <SignInButton />
-            </SignedOut>
-            <SignedIn>
-              <UserButton />
-            </SignedIn>
-          </header>
           <main>{children}</main>
         </body>
       </html>
