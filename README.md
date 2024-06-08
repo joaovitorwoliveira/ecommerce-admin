@@ -22,7 +22,7 @@ Todas as rotas da API são geradas automaticamente e disponibilizadas na interfa
 
 ## APP em Produção:
 
-[API/Dashboard]((https://ecommerce-admin-x3bc.vercel.app/d96b9656-cb1e-4865-9e5a-feb81d098175)) 
+[API/Dashboard](https://ecommerce-admin-x3bc.vercel.app/d96b9656-cb1e-4865-9e5a-feb81d098175)
 
 ## Autor
 
